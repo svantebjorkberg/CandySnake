@@ -1,0 +1,2983 @@
+fileFormatVersion: 2
+guid: 5c14880674dc3b4468e492e70f0042cb
+timeCreated: 1514292477
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BottomLightGLUE_0
+    21300002: BottomLightGLUE_1
+    21300004: BottomLightGLUE_2
+    21300006: BottomLightGLUE_3
+    21300008: BottomLightGLUE_4
+    21300010: BottomLightGLUE_5
+    21300012: BottomLightGLUE_6
+    21300014: BottomLightGLUE_7
+    21300016: BottomLightGLUE_8
+    21300018: BottomLightGLUE_9
+    21300020: BottomLightGLUE_10
+    21300022: BottomLightGLUE_11
+    21300024: BottomLightGLUE_12
+    21300026: BottomLightGLUE_13
+    21300028: BottomLightGLUE_14
+    21300030: BottomLightGLUE_15
+    21300032: BottomLightGLUE_16
+    21300034: BottomLightGLUE_17
+    21300036: BottomLightGLUE_18
+    21300038: BottomLightGLUE_19
+    21300040: BottomLightGLUE_20
+    21300042: BottomLightGLUE_21
+    21300044: BottomLightGLUE_22
+    21300046: BottomLightGLUE_23
+    21300048: BottomLightGLUE_24
+    21300050: BottomLightGLUE_25
+    21300052: BottomLightGLUE_26
+    21300054: BottomLightGLUE_27
+    21300056: BottomLightGLUE_28
+    21300058: BottomLightGLUE_29
+    21300060: BottomLightGLUE_30
+    21300062: BottomLightGLUE_31
+    21300064: BottomLightGLUE_32
+    21300066: BottomLightGLUE_33
+    21300068: BottomLightGLUE_34
+    21300070: BottomLightGLUE_35
+    21300072: BottomLightGLUE_36
+    21300074: BottomLightGLUE_37
+    21300076: BottomLightGLUE_38
+    21300078: BottomLightGLUE_39
+    21300080: BottomLightGLUE_40
+    21300082: BottomLightGLUE_41
+    21300084: BottomLightGLUE_42
+    21300086: BottomLightGLUE_43
+    21300088: BottomLightGLUE_44
+    21300090: BottomLightGLUE_45
+    21300092: BottomLightGLUE_46
+    21300094: BottomLightGLUE_47
+    21300096: BottomLightGLUE_48
+    21300098: BottomLightGLUE_49
+    21300100: BottomLightGLUE_50
+    21300102: BottomLightGLUE_51
+    21300104: BottomLightGLUE_52
+    21300106: BottomLightGLUE_53
+    21300108: BottomLightGLUE_54
+    21300110: BottomLightGLUE_55
+    21300112: BottomLightGLUE_56
+    21300114: BottomLightGLUE_57
+    21300116: BottomLightGLUE_58
+    21300118: BottomLightGLUE_59
+    21300120: BottomLightGLUE_60
+    21300122: BottomLightGLUE_61
+    21300124: BottomLightGLUE_62
+    21300126: BottomLightGLUE_63
+    21300128: BottomLightGLUE_64
+    21300130: BottomLightGLUE_65
+    21300132: BottomLightGLUE_66
+    21300134: BottomLightGLUE_67
+    21300136: BottomLightGLUE_68
+    21300138: BottomLightGLUE_69
+    21300140: BottomLightGLUE_70
+    21300142: BottomLightGLUE_71
+    21300144: BottomLightGLUE_72
+    21300146: BottomLightGLUE_73
+    21300148: BottomLightGLUE_74
+    21300150: BottomLightGLUE_75
+    21300152: BottomLightGLUE_76
+    21300154: BottomLightGLUE_77
+    21300156: BottomLightGLUE_78
+    21300158: BottomLightGLUE_79
+    21300160: BottomLightGLUE_80
+    21300162: BottomLightGLUE_81
+    21300164: BottomLightGLUE_82
+    21300166: BottomLightGLUE_83
+    21300168: BottomLightGLUE_84
+    21300170: BottomLightGLUE_85
+    21300172: BottomLightGLUE_86
+    21300174: BottomLightGLUE_87
+    21300176: BottomLightGLUE_88
+    21300178: BottomLightGLUE_89
+    21300180: BottomLightGLUE_90
+    21300182: BottomLightGLUE_91
+    21300184: BottomLightGLUE_92
+    21300186: BottomLightGLUE_93
+    21300188: BottomLightGLUE_94
+    21300190: BottomLightGLUE_95
+    21300192: BottomLightGLUE_96
+    21300194: BottomLightGLUE_97
+    21300196: BottomLightGLUE_98
+    21300198: BottomLightGLUE_99
+    21300200: BottomLightGLUE_100
+    21300202: BottomLightGLUE_101
+    21300204: BottomLightGLUE_102
+    21300206: BottomLightGLUE_103
+    21300208: BottomLightGLUE_104
+    21300210: BottomLightGLUE_105
+    21300212: BottomLightGLUE_106
+    21300214: BottomLightGLUE_107
+    21300216: BottomLightGLUE_108
+    21300218: BottomLightGLUE_109
+    21300220: BottomLightGLUE_110
+    21300222: BottomLightGLUE_111
+    21300224: BottomLightGLUE_112
+    21300226: BottomLightGLUE_113
+    21300228: BottomLightGLUE_114
+    21300230: BottomLightGLUE_115
+    21300232: BottomLightGLUE_116
+    21300234: BottomLightGLUE_117
+    21300236: BottomLightGLUE_118
+    21300238: BottomLightGLUE_119
+    21300240: BottomLightGLUE_120
+    21300242: BottomLightGLUE_121
+    21300244: BottomLightGLUE_122
+    21300246: BottomLightGLUE_123
+    21300248: BottomLightGLUE_124
+    21300250: BottomLightGLUE_125
+    21300252: BottomLightGLUE_126
+    21300254: BottomLightGLUE_127
+    21300256: BottomLightGLUE_128
+    21300258: BottomLightGLUE_129
+    21300260: BottomLightGLUE_130
+    21300262: BottomLightGLUE_131
+    21300264: BottomLightGLUE_132
+    21300266: BottomLightGLUE_133
+    21300268: BottomLightGLUE_134
+    21300270: BottomLightGLUE_135
+    21300272: BottomLightGLUE_136
+    21300274: BottomLightGLUE_137
+    21300276: BottomLightGLUE_138
+    21300278: BottomLightGLUE_139
+    21300280: BottomLightGLUE_140
+    21300282: BottomLightGLUE_141
+    21300284: BottomLightGLUE_142
+    21300286: BottomLightGLUE_143
+    21300288: BottomLightGLUE_144
+    21300290: BottomLightGLUE_145
+    21300292: BottomLightGLUE_146
+    21300294: BottomLightGLUE_147
+    21300296: BottomLightGLUE_148
+    21300298: BottomLightGLUE_149
+    21300300: BottomLightGLUE_150
+    21300302: BottomLightGLUE_151
+    21300304: BottomLightGLUE_152
+    21300306: BottomLightGLUE_153
+    21300308: BottomLightGLUE_154
+    21300310: BottomLightGLUE_155
+    21300312: BottomLightGLUE_156
+    21300314: BottomLightGLUE_157
+    21300316: BottomLightGLUE_158
+    21300318: BottomLightGLUE_159
+    21300320: BottomLightGLUE_160
+    21300322: BottomLightGLUE_161
+    21300324: BottomLightGLUE_162
+    21300326: BottomLightGLUE_163
+    21300328: BottomLightGLUE_164
+    21300330: BottomLightGLUE_165
+    21300332: BottomLightGLUE_166
+    21300334: BottomLightGLUE_167
+    21300336: BottomLightGLUE_168
+    21300338: BottomLightGLUE_169
+    21300340: BottomLightGLUE_170
+    21300342: BottomLightGLUE_171
+    21300344: BottomLightGLUE_172
+    21300346: BottomLightGLUE_173
+    21300348: BottomLightGLUE_174
+    21300350: BottomLightGLUE_175
+    21300352: BottomLightGLUE_176
+    21300354: BottomLightGLUE_177
+    21300356: BottomLightGLUE_178
+    21300358: BottomLightGLUE_179
+    21300360: BottomLightGLUE_180
+    21300362: BottomLightGLUE_181
+    21300364: BottomLightGLUE_182
+    21300366: BottomLightGLUE_183
+    21300368: BottomLightGLUE_184
+    21300370: BottomLightGLUE_185
+    21300372: BottomLightGLUE_186
+    21300374: BottomLightGLUE_187
+    21300376: BottomLightGLUE_188
+    21300378: BottomLightGLUE_189
+    21300380: BottomLightGLUE_190
+    21300382: BottomLightGLUE_191
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BottomLightGLUE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2838
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_25
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_27
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_28
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_29
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_30
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_31
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2580
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_40
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_41
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_42
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_43
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_44
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_45
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_46
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_47
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2322
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_58
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_59
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_60
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_61
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_63
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2064
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_67
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_69
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_70
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_72
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_73
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_74
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_75
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_76
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_77
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_78
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_79
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1806
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_86
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_87
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_88
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_89
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_90
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_91
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_92
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_93
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_94
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_95
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1548
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_99
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_100
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_101
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_103
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_104
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_105
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_106
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_107
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_108
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_109
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_110
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_111
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1290
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_115
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_117
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_120
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_121
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_122
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_123
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_124
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_125
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_126
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_127
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1032
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_129
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_131
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_132
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_133
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_134
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_135
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_136
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_137
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_138
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_139
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_140
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_141
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_142
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_143
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 774
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_145
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_146
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_147
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_149
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_150
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_151
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_152
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_153
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_154
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_155
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_156
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_157
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_158
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_159
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 516
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_162
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_163
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_164
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_165
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_166
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_167
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_168
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_169
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_170
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_171
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_172
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_173
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_174
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_175
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 258
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_178
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_179
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_180
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_181
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_182
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_183
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_184
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_185
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_186
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_187
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_188
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_189
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_190
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BottomLightGLUE_191
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 256
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

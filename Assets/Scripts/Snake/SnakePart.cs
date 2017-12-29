@@ -52,40 +52,29 @@ public abstract class SnakePart : MonoBehaviour {
 
         if (nextBoardCell == null) return;
         if (nextBoardCell == currentBoardCell) return; //We are still in the same cell
-        if (!nextBoardCell.IsBeyondCenter(gameObject.transform)) return; // We wont make the tern until we reached the middle of the cell
+        if (!this.PassedCenter(nextBoardCell)) return; // We wont make the tern until we reached the middle of the cell
 
         currentBoardCell = nextBoardCell;
 
-        int xCurrent = this.GetCoordinateX();
-        int yCurrent = this.GetCoordinateY();
+        gameObject.transform.position = currentBoardCell.GetPosition(); //Make sure bodypart sticks to grid
+        gameObject.transform.Rotate(Vector3.forward, this.GetBoardCell().GetRotation());
 
-        int xBefore = this.GetSnakePartBefore().GetCoordinateX();
-        int yBefore = this.GetSnakePartBefore().GetCoordinateY();
 
-        //Set direction down
-        if (xCurrent == xBefore && yCurrent > yBefore) {
-//            gameObject.transform.rotation = GetSnakePartBefore().transform.rotation;
-            gameObject.transform.rotation = Quaternion.Euler(0, 0, 0);
-        }
-
-        //Set direction up
-        else if (xCurrent == xBefore && yCurrent < yBefore)
+        //Remove this code when tail-object is created !!!
+        if (this.GetSnakePartAfter() == null)
         {
-///            gameObject.transform.rotation = GetSnakePartBefore().transform.rotation;
-            gameObject.transform.rotation = Quaternion.Euler(0, 0, 180);
+            currentBoardCell.SetRotation(0);
         }
+    }
 
-        //Set direction right
-        else if (xCurrent < xBefore && yCurrent == yBefore)
+    public bool PassedCenter(BoardCell boardCell)
+    {
+
+        if (Vector3.Dot(-gameObject.transform.up, boardCell.GetPosition() - gameObject.transform.position) <= 0)
         {
-//            gameObject.transform.rotation = GetSnakePartBefore().transform.rotation;
-            gameObject.transform.rotation = Quaternion.Euler(0, 0, 90);
+            return true;
         }
 
-        //Set direction left
-        else if (xCurrent > xBefore && yCurrent == yBefore) {
-//            gameObject.transform.rotation = GetSnakePartBefore().transform.rotation;
-            gameObject.transform.rotation = Quaternion.Euler(0, 0, 270);
-        }
+        return false;
     }
 }

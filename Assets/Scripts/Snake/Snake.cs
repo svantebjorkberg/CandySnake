@@ -15,15 +15,14 @@ public class Snake : MonoBehaviour {
         //Position SnakeHead
         int startY = (int)(Board.BOARD_HEIGHT / 2);
         snakeHead.gameObject.transform.position = new Vector3(3f, startY);
-        snakeHead.gameObject.transform.rotation = Quaternion.Euler(0, 0, 180);
+        snakeHead.SetInitialDirection(SnakeHead.Direction.right);
 
         //Add bodyparts
         AddBodyPart(new Vector3(2f, startY));
         AddBodyPart(new Vector3(1f, startY));
         AddBodyPart(new Vector3(0f, startY));
     }
-    private int x;
-    private int y;
+
     public void Update()
     {
         //Move head
@@ -35,24 +34,12 @@ public class Snake : MonoBehaviour {
             snakeBody.Move();
         }
 
-        if (x != snakeHead.GetCoordinateX() || y != snakeHead.GetCoordinateY())
-        {
-            print("---------------------------------- Move");
-            int acc = 1;
-            foreach (SnakeBody snakeBody in snakeBodies)
-            {
-                print("Body("+acc+"): " + snakeBody.GetCoordinateX() + ", " + snakeBody.GetCoordinateY());
-                acc++;
-            }
-            print("Head: " + snakeHead.GetCoordinateX() + ", " + snakeHead.GetCoordinateY());
-            x = snakeHead.GetCoordinateX();
-            y = snakeHead.GetCoordinateY();
-        }
-
     }
     public void AddBodyPart(Vector3 position)
     {
         GameObject snakeBodyObject = Instantiate(Resources.Load("Snake/SnakeBodyObject")as GameObject);
+        snakeBodyObject.transform.GetChild(0).transform.Rotate(Vector3.forward, Random.Range(0, 360));
+
         SnakeBody snakeBody = snakeBodyObject.GetComponent<SnakeBody>();
 
         //Position Bodypart
@@ -64,6 +51,7 @@ public class Snake : MonoBehaviour {
         snakeBody.SetSnakePartBefore(snakeBodyBefore);
         snakeBodyBefore.SetSnakePartAfter(snakeBody);
 
+        //snakeBody.gameObject.transform.rotation = Quaternion.Euler(0, 0, 90);
         snakeBody.gameObject.transform.rotation = snakeBody.GetSnakePartBefore().transform.rotation;
         snakeBodies.Add(snakeBody);
     }

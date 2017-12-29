@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoardCell {
+
+public class BoardCell
+{
+    public float rotationAngle = 0;
     private Vector3 position;
 
     public BoardCell(Vector3 position)
@@ -20,14 +23,18 @@ public class BoardCell {
         return Board.GetCoordinateY(position);
     }
 
-    public bool IsBeyondCenter(Transform aTransform)
+    public void SetRotation(float rotationAngle)
     {
+        this.rotationAngle = rotationAngle;
+    }
 
-        if (Vector3.Distance(aTransform.position, this.position) > 0.2)
-        {
-            return false;
-        }
+    public float GetRotation()
+    {
+        return rotationAngle;
+    }
 
-        return true;
+    public Vector3 GetPosition()
+    {
+        return position;
     }
 }
